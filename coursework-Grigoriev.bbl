@@ -49,4 +49,11 @@
   URL:~\url{https://software.intel.com/ru-ru/articles/opencl-20-non-uniform-work-groups}
   (Дата обращения 12.05.2019). Загл. с экр. Яз. рус.
 
+\bibitem{opencl-guide}
+\selectlanguageifdefined{english}
+\BibAuthor{Aaftab~Munshi~Benedict R.~Gaster,~T. G. M. J. F. D.~G.}
+  \BibTitle{OpenCL Programming Guide}~/ T.~G. M. J. F. D.~G. Aaftab~Munshi,
+  Benedict R.~Gaster. "---
+\newblock Ann Arbor, Michigan: Edwards Brothers, 2012.
+
 \end{thebibliography}

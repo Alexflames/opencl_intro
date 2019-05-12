@@ -15,12 +15,20 @@ Warning--empty year in opencl-spec
 Warning--empty year in videocard-architecture
 Warning--empty year in warps
 Warning--empty year in work-groups
+Too many commas in name 1 of "Aaftab Munshi, Benedict R. Gaster, Timothy G. Mattson, James Fung, Dan Ginsburg" for entry opencl-guide
+while executing---line 1398 of file gost780uv.bst
+Too many commas in name 1 of "Aaftab Munshi, Benedict R. Gaster, Timothy G. Mattson, James Fung, Dan Ginsburg" for entry opencl-guide
+while executing---line 1398 of file gost780uv.bst
+Too many commas in name 1 of "Aaftab Munshi, Benedict R. Gaster, Timothy G. Mattson, James Fung, Dan Ginsburg" for entry opencl-guide
+while executing---line 1398 of file gost780uv.bst
+Too many commas in name 1 of "Aaftab Munshi, Benedict R. Gaster, Timothy G. Mattson, James Fung, Dan Ginsburg" for entry opencl-guide
+while executing---line 1398 of file gost780uv.bst
 
 Here's how much of BibTeX's memory you used:
- Cites:                 6 out of 750
- Fields:              158 out of 5000
- Hash table:        18787 out of 19000
- Strings:             669 out of 19000
- Free string pool:   6581 out of 65000
+ Cites:                 7 out of 750
+ Fields:              189 out of 5000
+ Hash table:        18784 out of 19000
+ Strings:             675 out of 19000
+ Free string pool:   6735 out of 65000
  Wizard functions:   2649 out of 3000
-(There were 6 warnings)
+(There were 4 error messages)
