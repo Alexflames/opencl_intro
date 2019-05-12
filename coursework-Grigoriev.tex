@@ -440,8 +440,33 @@ else {
 —ледующий набор задач использует в качестве входных данных двумерный массив. 
 
 \subsubsection{“ранспонирование матрицы}
-–ешим задачу транспонировани€ матрицы
-(транспонирование, переменожение матриц)
+–ешим задачу транспонировани€ матрицы. «адача сводитс€ к считыванию и записи данных в пам€ть, но как было описано ранее в разделе~\ref{effectiveness}, эти
+операции €вл€ютс€ очень медленными. 
+
+¬ простейшей реализаци€ kernel будет выгл€деть следующим образом:
+
+\VerbatimInput[fontsize=\small, numbers=left, numbersep=2pt]{code/Transpose.cl}
+
+¬ этом kernel данные считываютс€ построчно, и записываютс€ в столбец. «аметим, что
+операци€ считывани€, очевидно, происходит в одной кеш-линии, и все work-item в рабочей группе за 
+1 глобальную операцию получат данные из исходной матрицы. «апись, напротив, происходит в разные строки,
+и данные не могут находитьс€ в одной кеш-линии. —ледовательно, на каждый активный warp
+произойдет $~$32 глобальные операции записи, и это сильно замедлит выполнение алгоритма.
+
+ƒанную проблему можно решить использованием локальной пам€ти дл€ транспонировани€ в соответствии
+с изображением~\ref{tile}.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.7]{screenshots/tile-transpose}
+	\caption{“ранспонирование матрицы с использованием <<плиток>>.}\label{tile}
+\end{figure}
+
+%https://compscicenter.ru/courses/video_cards_computation/2018-autumn/classes/4194/
+
+
+\subsubsection{”множение матриц}
+–ешим задачу умножени€ матриц
 
 
 
@@ -479,6 +504,9 @@ else {
 \VerbatimInput[fontsize=\small, numbers=left, numbersep=2pt]{code/HelloWorld.cpp}
 Kernel дл€ данной задачи
 \VerbatimInput[fontsize=\small, numbers=left, numbersep=2pt]{code/HelloWorld.cl}
+
+Kernel дл€ <<наивной>> реализации задачи транспонировани€ матриц.
+\VerbatimInput[fontsize=\small, numbers=left, numbersep=2pt]{code/transpose.cl}
 
 \section{Ћистинг сборочных файлов CMake}\label{pril-2}
  од сборочного файла CMakeLists.txt
