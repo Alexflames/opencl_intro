@@ -1,4 +1,4 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
 \else\language\csname l@#1\endcsname\fi}
@@ -8,5 +8,45 @@
 \ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
 \ifx\undefined\BibAnnote\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibSection\def\BibSection#1#2#3{}\else\fi
+
+\bibitem{fermi}
+\selectlanguageifdefined{english}
+\BibTitle{[NVIDIA’s Next Generation CUDA Compute Architecture: Fermi]}. "---
+\newblock
+  URL:~\url{https://www.nvidia.com/content/PDF/fermi_white_papers/NVIDIA_Fermi_Compute_Architecture_Whitepaper.pdf}
+  (Дата обращения 12.05.2019). Загл. с экр. Яз. англ.
+
+\bibitem{opencl-intro}
+\selectlanguageifdefined{english}
+\BibTitle{[Введение | OpenCL]}. "---
+\newblock URL:~\url{http://opencl.ru/node/8} (Дата обращения 12.05.2019). Загл.
+  с экр. Яз. рус.
+
+\bibitem{opencl-spec}
+\selectlanguageifdefined{english}
+\BibTitle{[The OpenCL Specification]}. "---
+\newblock URL:~\url{https://www.khronos.org/registry/OpenCL/specs/} (Дата
+  обращения 12.05.2019). Загл. с экр. Яз. англ.
+
+\bibitem{videocard-architecture}
+\selectlanguageifdefined{english}
+\BibTitle{[Введение в OpenCL. Архитектура видеокарты]}. "---
+\newblock
+  URL:~\url{https://compscicenter.ru/courses/video_cards_computation/2018-autumn/classes/3980/}
+  (Дата обращения 12.05.2019). Загл. с экр. Яз. рус.
+
+\bibitem{warps}
+\selectlanguageifdefined{english}
+\BibTitle{[Achieved Occupancy]}. "---
+\newblock
+  URL:~\url{https://docs.nvidia.com/gameworks/content/developertools/desktop/analysis/report/cudaexperiments/kernellevel/achievedoccupancy.htm}
+  (Дата обращения 12.05.2019). Загл. с экр. Яз. англ.
+
+\bibitem{work-groups}
+\selectlanguageifdefined{english}
+\BibTitle{[Неоднородные рабочие группы OpenCL 2.0]}. "---
+\newblock
+  URL:~\url{https://software.intel.com/ru-ru/articles/opencl-20-non-uniform-work-groups}
+  (Дата обращения 12.05.2019). Загл. с экр. Яз. рус.
 
 \end{thebibliography}
