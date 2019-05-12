@@ -454,13 +454,17 @@ else {
 произойдет $~$32 глобальные операции записи, и это сильно замедлит выполнение алгоритма.
 
 Данную проблему можно решить использованием локальной памяти для транспонирования в соответствии
-с изображением~\ref{tile}.
+с изображением~\ref{tile}. Задача переносится на tile (плитка) в локальной памяти, доступ к которой не замедляет программу. 
 
 \begin{figure}[h]
 	\centering
 	\includegraphics[scale=0.7]{screenshots/tile-transpose}
 	\caption{Транспонирование матрицы с использованием <<плиток>>.}\label{tile}
 \end{figure}
+
+Код оптимизированного kernel:
+
+\VerbatimInput[fontsize=\small, numbers=left, numbersep=2pt]{code/Transpose-tile.cl}
 
 %https://compscicenter.ru/courses/video_cards_computation/2018-autumn/classes/4194/
 
@@ -502,11 +506,14 @@ else {
 \section{Листинг программы}\label{pril-1}
 Вычисление суммы двух массивов.
 \VerbatimInput[fontsize=\small, numbers=left, numbersep=2pt]{code/HelloWorld.cpp}
-Kernel для данной задачи
+Kernel для данной задачи.
 \VerbatimInput[fontsize=\small, numbers=left, numbersep=2pt]{code/HelloWorld.cl}
 
-Kernel для <<наивной>> реализации задачи транспонирования матриц.
+Kernel для <<наивной>> реализации задачи транспонирования матрицы.
 \VerbatimInput[fontsize=\small, numbers=left, numbersep=2pt]{code/transpose.cl}
+
+Kernel для эффективной реализации задачи транспонирования матрицы.
+\VerbatimInput[fontsize=\small, numbers=left, numbersep=2pt]{code/transpose-tile.cl}
 
 \section{Листинг сборочных файлов CMake}\label{pril-2}
 Код сборочного файла CMakeLists.txt
