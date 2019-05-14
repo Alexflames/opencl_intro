@@ -10,11 +10,13 @@ __kernel void transpose2(__global float *a,
 	int local_i = get_local_id(0);
 	int local_j = get_local_id(1);
 	
-	tile[local_j][local_i] = a[j * k + i]
+	tile[local_j][local_i] = a[j * k + i];
+	barrier(CLK_LOCAL_MEM_FENCE);
 	
 	float tmp = tile[local_j][i];
 	tile[local_j][local_i] = tile[local_i][local_j];
 	tile[local_i][local_j] = tmp;
+	barrier(CLK_LOCAL_MEM_FENCE);
 	
 	at[i * m + j] = tile[j * TILE_SIZE][i];
 }
