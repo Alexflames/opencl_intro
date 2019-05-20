@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
 \else\language\csname l@#1\endcsname\fi}
@@ -8,6 +8,13 @@
 \ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
 \ifx\undefined\BibAnnote\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibSection\def\BibSection#1#2#3{}\else\fi
+
+\bibitem{performance}
+\selectlanguageifdefined{english}
+\BibTitle{[FLOPs per Cycle for CPUs, GPUs and Xeon Phis]}. "---
+\newblock
+  URL:~\url{https://www.karlrupp.net/2016/08/flops-per-cycle-for-cpus-gpus-and-xeon-phis/}
+  (Дата обращения 12.05.2019). Загл. с экр. Яз. англ.
 
 \bibitem{fermi}
 \selectlanguageifdefined{english}
@@ -55,5 +62,19 @@
   \BibTitle{OpenCL Programming Guide}~/ T.~G. M. J. F. D.~G. Aaftab~Munshi,
   Benedict R.~Gaster. "---
 \newblock Ann Arbor, Michigan: Edwards Brothers, 2012.
+
+\bibitem{enqueue}
+\selectlanguageifdefined{english}
+\BibTitle{[clEnqueueNDRangeKernel]}. "---
+\newblock
+  URL:~\url{https://www.khronos.org/registry/OpenCL/sdk/1.0/docs/man/xhtml/clEnqueueNDRangeKernel.html}
+  (Дата обращения 12.05.2019). Загл. с экр. Яз. англ.
+
+\bibitem{matmul}
+\selectlanguageifdefined{english}
+\BibTitle{[Умножение матриц | Вычисления на видеокартах]}. "---
+\newblock
+  URL:~\url{https://compscicenter.ru/courses/video_cards_computation/2018-autumn/classes/4194/}
+  (Дата обращения 12.05.2019). Загл. с экр. Яз. рус.
 
 \end{thebibliography}

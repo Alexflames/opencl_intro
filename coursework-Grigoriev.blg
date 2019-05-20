@@ -9,6 +9,7 @@ Reallocated glb_str_ptr (elt_size=4) to 10 items from 0.
 Reallocated global_strs (elt_size=1001) to 10 items from 0.
 Reallocated glb_str_end (elt_size=4) to 10 items from 0.
 Database file #1: thesis.bib
+Warning--empty year in performance
 Warning--empty year in fermi
 Warning--empty year in opencl-intro
 Warning--empty year in opencl-spec
@@ -23,12 +24,14 @@ Too many commas in name 1 of "Aaftab Munshi, Benedict R. Gaster, Timothy G. Matt
 while executing---line 1398 of file gost780uv.bst
 Too many commas in name 1 of "Aaftab Munshi, Benedict R. Gaster, Timothy G. Mattson, James Fung, Dan Ginsburg" for entry opencl-guide
 while executing---line 1398 of file gost780uv.bst
+Warning--empty year in enqueue
+Warning--empty year in matmul
 
 Here's how much of BibTeX's memory you used:
- Cites:                 7 out of 750
- Fields:              189 out of 5000
- Hash table:        18784 out of 19000
- Strings:             675 out of 19000
- Free string pool:   6735 out of 65000
+ Cites:                10 out of 750
+ Fields:              282 out of 5000
+ Hash table:        18780 out of 19000
+ Strings:             684 out of 19000
+ Free string pool:   7312 out of 65000
  Wizard functions:   2649 out of 3000
 (There were 4 error messages)
