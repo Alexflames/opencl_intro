@@ -6,6 +6,7 @@
 #include <iostream>
 #include <fstream>
 #include <sstream>
+#include <chrono>
 
 #ifdef __APPLE__
 #include <OpenCL/cl.h>
@@ -16,8 +17,11 @@
 ///
 //  Константы
 //
-const int ARRAY_SIZE = 32;
-const int ROWS_COUNT = 8;
+//const int ARRAY_SIZE = 4096;
+//const int ROWS_COUNT = 2048;
+const int ARRAY_SIZE = 4096;
+const int ROWS_COUNT = 2048;
+#pragma comment(linker, "/STACK:100000000")
 
 ///
 //  Создание OpenCL контекста на основе доступной платформы,
@@ -264,12 +268,15 @@ int main(int argc, char** argv)
         {
             a[i * ARRAY_SIZE + j] = (float)j;
             if (a[i * ARRAY_SIZE + j] < 10) {
-                std::cout << 0;
+                //std::cout << 0;
             }
-            std::cout << a[i * ARRAY_SIZE + j] << " ";
+            //std::cout << a[i * ARRAY_SIZE + j] << " ";
         }
-        std::cout << std::endl;
+        //std::cout << std::endl;
     }
+
+    // Измеряем время работы алгоритма
+    auto t1 = std::chrono::high_resolution_clock::now();
 
     if (!CreateMemObjects(context, memObjects, a))
     {
@@ -290,7 +297,7 @@ int main(int argc, char** argv)
     }
 
     size_t globalWorkSize[2] = { ARRAY_SIZE, ROWS_COUNT };
-    size_t localWorkSize[2] = { 32, 1 };
+    size_t localWorkSize[2] = { 32, 32 };
 
     // Поставить kernel в очередь на исполнение
     errNum = clEnqueueNDRangeKernel(commandQueue, kernel, 2, NULL,
@@ -314,18 +321,23 @@ int main(int argc, char** argv)
         return 1;
     }
 
+    auto t2 = std::chrono::high_resolution_clock::now();
+    std::cout << "Execution time: "
+        << std::chrono::duration_cast<std::chrono::microseconds>(t2 - t1).count()
+        << std::endl;
+
     // Вывод результирующего буфера
-    std::cout << std::endl;
-    for (int i = 0; i < ROWS_COUNT; i++)
-    {
-        for (int j = 0; j < ARRAY_SIZE; j++) {
-            if (at[i * ARRAY_SIZE + j] < 10) {
-                std::cout << 0;
-            }
-            std::cout << at[i * ARRAY_SIZE + j] << " ";
-        }
-        std::cout << std::endl;
-    }
+    //std::cout << std::endl;
+    //for (int i = 0; i < ROWS_COUNT; i++)
+    //{
+    //    for (int j = 0; j < ARRAY_SIZE; j++) {
+    //        if (at[i * ARRAY_SIZE + j] < 10) {
+    //            std::cout << 0;
+    //        }
+    //        std::cout << at[i * ARRAY_SIZE + j] << " ";
+    //    }
+    //    std::cout << std::endl;
+    //}
     std::cout << std::endl;
     std::cout << "Executed program succesfully." << std::endl;
     Cleanup(context, commandQueue, program, kernel, memObjects);
