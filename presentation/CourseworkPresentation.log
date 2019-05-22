@@ -1,0 +1,1302 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500) (preloaded format=pdflatex 2018.1.22)  22 MAY 2019 19:47
+entering extended mode
+**./CourseworkPresentation.tex
+(CourseworkPresentation.tex
+LaTeX2e <2017-04-15>
+Babel <3.16> and hyphenation patterns for 75 language(s) loaded.
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamer.cls
+Document Class: beamer 2018/02/20 v3.50 A class for typesetting presentations
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasemod
+es.sty
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\etoolbox\etoolbox.st
+y
+Package: etoolbox 2017/11/22 v2.5 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count79
+)
+\beamer@tempbox=\box26
+\beamer@tempcount=\count80
+\c@beamerpauses=\count81
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasedec
+ode.sty
+\beamer@slideinframe=\count82
+\beamer@minimum=\count83
+)
+\beamer@commentbox=\box27
+\beamer@modecount=\count84
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+\headdp=\dimen102
+\footheight=\dimen103
+\sidebarheight=\dimen104
+\beamer@tempdim=\dimen105
+\beamer@finalheight=\dimen106
+\beamer@animht=\dimen107
+\beamer@animdp=\dimen108
+\beamer@animwd=\dimen109
+\beamer@leftmargin=\dimen110
+\beamer@rightmargin=\dimen111
+\beamer@leftsidebar=\dimen112
+\beamer@rightsidebar=\dimen113
+\beamer@boxsize=\dimen114
+\beamer@vboxoffset=\dimen115
+\beamer@descdefault=\dimen116
+\beamer@descriptionwidth=\dimen117
+\beamer@lastskip=\skip41
+\beamer@areabox=\box28
+\beamer@animcurrent=\box29
+\beamer@animshowbox=\box30
+\beamer@sectionbox=\box31
+\beamer@logobox=\box32
+\beamer@linebox=\box33
+\beamer@sectioncount=\count85
+\beamer@subsubsectionmax=\count86
+\beamer@subsectionmax=\count87
+\beamer@sectionmax=\count88
+\beamer@totalheads=\count89
+\beamer@headcounter=\count90
+\beamer@partstartpage=\count91
+\beamer@sectionstartpage=\count92
+\beamer@subsectionstartpage=\count93
+\beamer@animationtempa=\count94
+\beamer@animationtempb=\count95
+\beamer@xpos=\count96
+\beamer@ypos=\count97
+\beamer@ypos@offset=\count98
+\beamer@showpartnumber=\count99
+\beamer@currentsubsection=\count100
+\beamer@coveringdepth=\count101
+\beamer@sectionadjust=\count102
+\beamer@tocsectionnumber=\count103
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbaseopt
+ions.sty
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\geometry\geometry.st
+y
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\oberdiek\ifvtex.st
+y
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\ifxetex\ifxetex.st
+y
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count104
+\Gm@cntv=\count105
+\c@Gm@tempcnt=\count106
+\Gm@bindingoffset=\dimen118
+\Gm@wd@mp=\dimen119
+\Gm@odd@mp=\dimen120
+\Gm@even@mp=\dimen121
+\Gm@layoutwidth=\dimen122
+\Gm@layoutheight=\dimen123
+\Gm@layouthoffset=\dimen124
+\Gm@layoutvoffset=\dimen125
+\Gm@dimlist=\toks15
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\geometry\geometry.cf
+g)) (C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\base\size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\pgf\basiclayer\pgfco
+re.sty
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\graphics\graphicx.st
+y
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\graphics\graphics.st
+y
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\graphics-cfg\graphic
+s.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\graphics-def\pdftex.
+def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\pgf\systemlayer\pgfs
+ys.sty
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\pgf\utilities\pgfrcs
+.sty
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\utilities\pgfu
+til-common.tex
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen128
+\pgfutil@tempdimb=\dimen129
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\utilities\pgfu
+til-common-lists.tex))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\utilities\pgfu
+til-latex.def
+\pgfutil@abb=\box34
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\utilities\pgfr
+cs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\systemlayer\pg
+fsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\utilities\pgfk
+eys.code.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\utilities\pgfk
+eysfiltered.code.tex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen130
+\pgf@y=\dimen131
+\pgf@xa=\dimen132
+\pgf@ya=\dimen133
+\pgf@xb=\dimen134
+\pgf@yb=\dimen135
+\pgf@xc=\dimen136
+\pgf@yc=\dimen137
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count107
+\c@pgf@countb=\count108
+\c@pgf@countc=\count109
+\c@pgf@countd=\count110
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\systemlayer\pg
+f.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\systemlayer\pg
+fsys-pdftex.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\systemlayer\pg
+fsys-common-pdf.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\systemlayer\pg
+fsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count111
+\pgfsyssoftpath@bigbuffer@items=\count112
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\systemlayer\pg
+fsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\graphics-cfg\color.c
+fg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\basiclayer\pgf
+core.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\math\pgfmath.c
+ode.tex
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\math\pgfmathca
+lc.code.tex
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\math\pgfmathut
+il.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\math\pgfmathpa
+rser.code.tex
+\pgfmath@dimen=\dimen138
+\pgfmath@count=\count113
+\pgfmath@box=\box35
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\math\pgfmathfu
+nctions.code.tex
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\math\pgfmathfu
+nctions.basic.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\math\pgfmathfu
+nctions.trigonometric.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\math\pgfmathfu
+nctions.random.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\math\pgfmathfu
+nctions.comparison.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\math\pgfmathfu
+nctions.base.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\math\pgfmathfu
+nctions.round.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\math\pgfmathfu
+nctions.misc.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\math\pgfmathfu
+nctions.integerarithmetics.code.tex)))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\math\pgfmathfl
+oat.code.tex
+\c@pgfmathroundto@lastzeros=\count114
+))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\basiclayer\pgf
+corepoints.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen139
+\pgf@picmaxx=\dimen140
+\pgf@picminy=\dimen141
+\pgf@picmaxy=\dimen142
+\pgf@pathminx=\dimen143
+\pgf@pathmaxx=\dimen144
+\pgf@pathminy=\dimen145
+\pgf@pathmaxy=\dimen146
+\pgf@xx=\dimen147
+\pgf@xy=\dimen148
+\pgf@yx=\dimen149
+\pgf@yy=\dimen150
+\pgf@zx=\dimen151
+\pgf@zy=\dimen152
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\basiclayer\pgf
+corepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen153
+\pgf@path@lasty=\dimen154
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\basiclayer\pgf
+corepathusage.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen155
+\pgf@shorten@start@additional=\dimen156
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\basiclayer\pgf
+corescopes.code.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count115
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\basiclayer\pgf
+coregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen157
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\basiclayer\pgf
+coretransformations.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen158
+\pgf@pt@y=\dimen159
+\pgf@pt@temp=\dimen160
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\basiclayer\pgf
+corequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\basiclayer\pgf
+coreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\basiclayer\pgf
+corepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\basiclayer\pgf
+corearrows.code.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen161
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\basiclayer\pgf
+coreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen162
+\pgf@sys@shading@range@num=\count116
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\basiclayer\pgf
+coreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\basiclayer\pgf
+coreexternal.code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box39
+))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\basiclayer\pgf
+corelayers.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\basiclayer\pgf
+coretransparency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\basiclayer\pgf
+corepatterns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\pgf\utilities\xxcolo
+r.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count117
+\XC@countmixins=\count118
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\oberdiek\atbegshi.
+sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\oberdiek\infwarerr
+.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\oberdiek\ltxcmds.s
+ty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\hyperref\hyperref.st
+y
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\oberdiek\hobsub-hy
+perref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\oberdiek\hobsub-ge
+neric.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\oberdiek\auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\oberdiek\kvoptions.s
+ty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen163
+\Hy@linkcounter=\count119
+\Hy@pagecounter=\count120
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\hyperref\pd1enc.def
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count121
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\00miktex\hyperref.cf
+g
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4374.
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\hyperref\puenc.def
+File: puenc.def 2017/03/14 v6.85a Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4374.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4374.
+Package hyperref Info: Option `implicit' set `false' on input line 4374.
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count122
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\url\url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen164
+\Fld@menulength=\count123
+\Field@Width=\dimen165
+\Fld@charsize=\dimen166
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring OFF on input line 6378.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count124
+
+
+Package hyperref Message: Stopped early.
+
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\hyperref\hpdftex.def
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+\Fld@listcount=\count125
+\c@bookmark@seq@number=\count126
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\oberdiek\rerunfilech
+eck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasereq
+uires.sty
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasecom
+patibility.sty)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasefon
+t.sty
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\amsfonts\amsfonts.st
+y
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks26
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\sansmathaccent\sansm
+athaccent.sty
+Package: sansmathaccent 2013/03/28
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\filehook\filehook.st
+y
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+)))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasetra
+nslator.sty
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\translator\translato
+r.sty
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasemis
+c.sty)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasetwo
+screens.sty)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbaseove
+rlay.sty
+\beamer@argscount=\count127
+\beamer@lastskipcover=\skip44
+\beamer@trivlistdepth=\count128
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasetit
+le.sty)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasesec
+tion.sty
+\c@lecture=\count129
+\c@part=\count130
+\c@section=\count131
+\c@subsection=\count132
+\c@subsubsection=\count133
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasefra
+me.sty
+\beamer@framebox=\box40
+\beamer@frametitlebox=\box41
+\beamer@zoombox=\box42
+\beamer@zoomcount=\count134
+\beamer@zoomframecount=\count135
+\beamer@frametextheight=\dimen167
+\c@subsectionslide=\count136
+\beamer@frametopskip=\skip45
+\beamer@framebottomskip=\skip46
+\beamer@frametopskipautobreak=\skip47
+\beamer@framebottomskipautobreak=\skip48
+\beamer@envbody=\toks27
+\framewidth=\dimen168
+\c@framenumber=\count137
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasever
+batim.sty
+\beamer@verbatimfileout=\write4
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasefra
+mesize.sty
+\beamer@splitbox=\box43
+\beamer@autobreakcount=\count138
+\beamer@autobreaklastheight=\dimen169
+\beamer@frametitletoks=\toks28
+\beamer@framesubtitletoks=\toks29
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasefra
+mecomponents.sty
+\beamer@footins=\box44
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasecol
+or.sty
+\beamer@bg@ht=\dimen170
+\beamer@bg@wd=\dimen171
+\beamer@bg@dp=\dimen172
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasenot
+es.sty
+\beamer@frameboxcopy=\box45
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasetoc
+.sty)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasetem
+plates.sty
+\beamer@sbttoks=\toks30
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbaseaux
+templates.sty
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasebox
+es.sty
+\bmb@box=\box46
+\bmb@colorbox=\box47
+\bmb@boxshadow=\box48
+\bmb@boxshadowball=\box49
+\bmb@boxshadowballlarge=\box50
+\bmb@temp=\dimen173
+\bmb@dima=\dimen174
+\bmb@dimb=\dimen175
+\bmb@prevheight=\dimen176
+)
+\beamer@blockheadheight=\dimen177
+))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbaseloc
+alstructure.sty
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\tools\enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+)
+\c@figure=\count139
+\c@table=\count140
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasenav
+igation.sty
+\beamer@section@min@dim=\dimen178
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasethe
+orems.sty
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks32
+\ex@=\dimen179
+)) (C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\amsmath\amsbsy.st
+y
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen180
+) (C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count141
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count142
+\leftroot@=\count143
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count144
+\DOTSCASE@=\count145
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen181
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count146
+\c@MaxMatrixCols=\count147
+\dotsspace@=\muskip11
+\c@parentequation=\count148
+\dspbrk@lvl=\count149
+\tag@help=\toks33
+\row@=\count150
+\column@=\count151
+\maxfields@=\count152
+\andhelp@=\toks34
+\eqnshift@=\dimen182
+\alignsep@=\dimen183
+\tagshift@=\dimen184
+\tagwidth@=\dimen185
+\totwidth@=\dimen186
+\lineht@=\dimen187
+\@envbody=\toks35
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+) (C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\amscls\amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks42
+)
+\c@theorem=\count153
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerbasethe
+mes.sty))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerthemede
+fault.sty
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerfontthe
+medefault.sty)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamercolorth
+emedefault.sty)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerinnerth
+emedefault.sty
+\beamer@dima=\dimen188
+\beamer@dimb=\dimen189
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerouterth
+emedefault.sty)))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\base\fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\cyrillic\t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+LaTeX Font Info:    Try loading font information for T2A+cmss on input line 105
+.
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\cyrillic\t2acmss.fd
+File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)) (C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\base\inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks43
+\inpenc@posthook=\toks44
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\cyrillic\cp1251.def
+File: cp1251.def 2014/10/28 v1.0d Input encoding file
+)) (C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\babel\babel.sty
+Package: babel 2018/01/04 3.16 The Babel package
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\babel\switch.def
+File: switch.def 2018/01/04 3.16 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\babel-english\englis
+h.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\babel\babel.def
+File: babel.def 2018/01/04 3.16 Babel common definitions
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\babel\switch.def
+File: switch.def 2018/01/04 3.16 Babel switching mechanism
+)
+\babel@savecnt=\count154
+\U@D=\dimen190
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\babel\txtbabel.def
+)
+LaTeX Info: Redefining \textlatin on input line 1799.
+\bbl@dirlevel=\count155
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\babel-russian\russia
+nb.ldf
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
+))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerthemeWa
+rsaw.sty
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerinnerth
+emerounded.sty)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerouterth
+emeshadow.sty
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerouterth
+emesplit.sty))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamercolorth
+emeorchid.sty)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamercolorth
+emewhale.sty))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerfontthe
+mestructurebold.sty)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerfontthe
+meserif.sty)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\beamer\beamerthemesp
+lit.sty)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\doublestroke\dsfont.
+sty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\pgfplots\pgfplots.st
+y
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\pgfplots.
+revision.tex)
+Package: pgfplots 2018/03/28 v1.16 Data Visualization (1.16)
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\pgf\frontendlayer\ti
+kz.sty
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\pgf\basiclayer\pgf.s
+ty
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\modules\pgfmod
+uleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box53
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\modules\pgfmod
+uleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\pgf\compatibility\pg
+fcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen191
+\pgf@nodesepend=\dimen192
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\pgf\compatibility\pg
+fcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\pgf\utilities\pgffor
+.sty
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\pgf\utilities\pgfkey
+s.sty
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\utilities\pgfk
+eys.code.tex))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\pgf\math\pgfmath.sty
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\math\pgfmath.c
+ode.tex))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\utilities\pgff
+or.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\math\pgfmath.c
+ode.tex)
+\pgffor@iter=\dimen193
+\pgffor@skip=\dimen194
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\frontendlayer\
+tikz\tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\libraries\pgfl
+ibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count156
+\pgfplotmarksize=\dimen195
+)
+\tikz@lastx=\dimen196
+\tikz@lasty=\dimen197
+\tikz@lastxsaved=\dimen198
+\tikz@lastysaved=\dimen199
+\tikzleveldistance=\dimen256
+\tikzsiblingdistance=\dimen257
+\tikz@figbox=\box54
+\tikz@figbox@bg=\box55
+\tikz@tempbox=\box56
+\tikz@tempbox@bg=\box57
+\tikztreelevel=\count157
+\tikznumberofchildren=\count158
+\tikznumberofcurrentchild=\count159
+\tikz@fig@count=\count160
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\modules\pgfmod
+ulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count161
+\pgfmatrixcurrentcolumn=\count162
+\pgf@matrix@numberofcolumns=\count163
+)
+\tikz@expandcount=\count164
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\frontendlayer\
+tikz\libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\pgfplots.
+code.tex
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\pgfplotsc
+ore.code.tex
+\t@pgfplots@toka=\toks47
+\t@pgfplots@tokb=\toks48
+\t@pgfplots@tokc=\toks49
+\pgfplots@tmpa=\dimen258
+\c@pgfplots@coordindex=\count165
+\c@pgfplots@scanlineindex=\count166
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\sys\pgfpl
+otssysgeneric.code.tex))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\libs\pgfp
+lotslibrary.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\oldpgfcom
+patib\pgfplotsoldpgfsupp_loader.code.tex
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\libraries\pgfl
+ibraryfpu.code.tex)
+Package pgfplots: loading complementary arithmetics for your pgf version...
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\oldpgfcom
+patib\pgfplotsoldpgfsupp_pgflibraryfpu.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\oldpgfcom
+patib\pgfplotsoldpgfsupp_pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count167
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\oldpgfcom
+patib\pgfplotsoldpgfsupp_leq.code.tex))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\util\pgfp
+lotsutil.code.tex
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\liststruc
+ture\pgfplotsliststructure.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\liststruc
+ture\pgfplotsliststructureext.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\liststruc
+ture\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count168
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\liststruc
+ture\pgfplotsmatrix.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\numtable\
+pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count169
+\t@pgfplotstable@a=\toks50
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\liststruc
+ture\pgfplotsdeque.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\util\pgfp
+lotsbinary.code.tex
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\util\pgfp
+lotsbinary.data.code.tex))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\util\pgfp
+lotsutil.verb.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\libs\pgfl
+ibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count170
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\sys\pgfli
+brarypgfplots.surfshading.pgfsys-pdftex.def)))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\util\pgfp
+lotscolormap.code.tex
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\util\pgfp
+lotscolor.code.tex))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\pgfplotss
+tackedplots.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\pgfplotsp
+lothandlers.code.tex
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\pgfplotsm
+eshplothandler.code.tex
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\pgfplotsm
+eshplotimage.code.tex)))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\pgfplots.
+scaling.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\pgfplotsc
+oordprocessing.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\pgfplots.
+errorbars.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\pgfplots.
+markers.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\pgfplotst
+icks.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgfplots\pgfplots.
+paths.code.tex)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\frontendlayer\
+tikz\libraries\tikzlibrarydecorations.code.tex
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\modules\pgfmod
+uledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen259
+\pgfdecoratedremainingdistance=\dimen260
+\pgfdecoratedinputsegmentcompleteddistance=\dimen261
+\pgfdecoratedinputsegmentremainingdistance=\dimen262
+\pgf@decorate@distancetomove=\dimen263
+\pgf@decorate@repeatstate=\count171
+\pgfdecorationsegmentamplitude=\dimen264
+\pgfdecorationsegmentlength=\dimen265
+)
+\tikz@lib@dec@box=\box58
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\frontendlayer\
+tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\libraries\deco
+rations\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\frontendlayer\
+tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\libraries\deco
+rations\pgflibrarydecorations.pathreplacing.code.tex))
+\pgfplots@numplots=\count172
+\pgfplots@xmin@reg=\dimen266
+\pgfplots@xmax@reg=\dimen267
+\pgfplots@ymin@reg=\dimen268
+\pgfplots@ymax@reg=\dimen269
+\pgfplots@zmin@reg=\dimen270
+\pgfplots@zmax@reg=\dimen271
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\frontendlayer\
+tikz\libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\pgf\libraries\pgfl
+ibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2015/08/03 v3.0.1a (rcs-revision 1.14)
+)))
+\c@sli=\count173
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 32.
+
+(CourseworkPresentation.aux)
+\openout1 = `CourseworkPresentation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 41.
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 41.
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\cyrillic\t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    ... okay on input line 41.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=307.28987pt
+* \textheight=244.6939pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count174
+\scratchdimen=\dimen272
+\scratchbox=\box59
+\nofMPsegments=\count175
+\nofMParguments=\count176
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count177
+\MPscratchDim=\dimen273
+\MPnumerator=\count178
+\makeMPintoPDFobject=\count179
+\everyMPtoPDFconversion=\toks52
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\oberdiek\epstopdf-ba
+se.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\oberdiek\grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+) ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box60
+Package hyperref Info: Link coloring OFF on input line 41.
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\hyperref\nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\generic\oberdiek\gettitles
+tring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count180
+)
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
+ (CourseworkPresentation.out) (CourseworkPresentation.out)
+\@outlinefile=\write5
+\openout5 = `CourseworkPresentation.out'.
+
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\translator\translato
+r-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\translator\translato
+r-bibliography-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\translator\translato
+r-environment-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\translator\translato
+r-months-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\translator\translato
+r-numbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\translator\translato
+r-theorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into 
+your preamble.
+ on input line 41.
+
+(CourseworkPresentation.nav) [1
+
+{C:/WithoutPermission/PortableTEX/texmfs/data/pdftex/config/pdftex.map}]
+<screenshots/cpu-gpu-performance.png, id=50, 644.4075pt x 419.31656pt>
+File: screenshots/cpu-gpu-performance.png Graphic file (type png)
+<use screenshots/cpu-gpu-performance.png>
+Package pdftex.def Info: screenshots/cpu-gpu-performance.png  used on input lin
+e 60.
+(pdftex.def)             Requested size: 193.32373pt x 125.79593pt.
+
+Overfull \hbox (22.60721pt too wide) in paragraph at lines 60--60
+ [][] 
+ []
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 60.
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 60.
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<screenshots/flops.png, id=52, 1154.3125pt x 806.01125pt>
+File: screenshots/flops.png Graphic file (type png)
+<use screenshots/flops.png>
+Package pdftex.def Info: screenshots/flops.png  used on input line 60.
+(pdftex.def)             Requested size: 150.06589pt x 104.78514pt.
+
+Overfull \hbox (7.80211pt too wide) in paragraph at lines 60--60
+[][]  
+ []
+
+[2
+
+ <./screenshots/cpu-gpu-performance.png> <./screenshots/flops.png>] [3
+
+]
+[4
+
+] [5
+
+] [6
+
+] [7
+
+] [8
+
+] [9
+
+] [10
+
+]
+<screenshots/tile-transpose.png, id=291, 441.90094pt x 213.04594pt>
+File: screenshots/tile-transpose.png Graphic file (type png)
+<use screenshots/tile-transpose.png>
+Package pdftex.def Info: screenshots/tile-transpose.png  used on input line 171
+.
+(pdftex.def)             Requested size: 265.14261pt x 127.82854pt.
+ [11
+
+ <./screenshots/tile-transpose.png>] [12
+
+]
+<screenshots/matmul-smart.png, id=344, 445.665pt x 386.94562pt>
+File: screenshots/matmul-smart.png Graphic file (type png)
+<use screenshots/matmul-smart.png>
+Package pdftex.def Info: screenshots/matmul-smart.png  used on input line 197.
+(pdftex.def)             Requested size: 200.5474pt x 174.12392pt.
+
+[13
+
+ <./screenshots/matmul-smart.png>]
+Overfull \hbox (20.78967pt too wide) in paragraph at lines 221--221
+ [] 
+ []
+
+[14
+
+] [15
+
+] [16
+
+]
+\tf@nav=\write6
+\openout6 = `CourseworkPresentation.nav'.
+
+\tf@toc=\write7
+\openout7 = `CourseworkPresentation.toc'.
+
+\tf@snm=\write8
+\openout8 = `CourseworkPresentation.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 297.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 297.
+ (CourseworkPresentation.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 297.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 297.
+Package rerunfilecheck Info: File `CourseworkPresentation.out' has not changed.
+
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 34065 strings out of 493307
+ 792902 string characters out of 3129325
+ 998831 words of memory out of 3000000
+ 36925 multiletter control sequences out of 15000+200000
+ 18398 words of font info for 55 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 64i,14n,98p,816b,635s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\WithoutPermission\PortableTEX\texmfs/data\fonts\pk\ljfour\lh\lh-t2a\dpi6
+00\lass1728.pk> <C:\WithoutPermission\PortableTEX\texmfs/data\fonts\pk\ljfour\l
+h\lh-t2a\dpi600\lass0600.pk> <C:\WithoutPermission\PortableTEX\texmfs/data\font
+s\pk\ljfour\lh\lh-t2a\dpi600\lass1000.pk> <C:\WithoutPermission\PortableTEX\tex
+mfs/data\fonts\pk\ljfour\lh\lh-t2a\dpi600\lasx0600.pk> <C:\WithoutPermission\Po
+rtableTEX\texmfs/data\fonts\pk\ljfour\lh\lh-t2a\dpi600\lass1095.pk> <C:\Without
+Permission\PortableTEX\texmfs/data\fonts\pk\ljfour\lh\lh-t2a\dpi600\lass1440.pk
+><C:/WithoutPermission/PortableTEX/texmfs/install/fonts/type1/public/amsfonts/c
+m/cmmi10.pfb><C:/WithoutPermission/PortableTEX/texmfs/install/fonts/type1/publi
+c/amsfonts/cm/cmmi12.pfb><C:/WithoutPermission/PortableTEX/texmfs/install/fonts
+/type1/public/amsfonts/cm/cmmi6.pfb><C:/WithoutPermission/PortableTEX/texmfs/in
+stall/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/WithoutPermission/PortableTE
+X/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/WithoutPermission
+/PortableTEX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Without
+Permission/PortableTEX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+><C:/WithoutPermission/PortableTEX/texmfs/install/fonts/type1/public/amsfonts/c
+m/cmsy6.pfb>
+Output written on CourseworkPresentation.pdf (16 pages, 857984 bytes).
+PDF statistics:
+ 727 PDF objects out of 1000 (max. 8388607)
+ 33 named destinations out of 1000 (max. 500000)
+ 99 words of extra memory for PDF output out of 10000 (max. 10000000)
+

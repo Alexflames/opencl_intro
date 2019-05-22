@@ -1,0 +1,53 @@
+% babybeamer7 presentation
+
+\documentclass{beamer}
+
+\begin{document}
+
+\begin{frame}
+\frametitle{First frame with a button}
+
+Button example
+
+Jumping to an overlay of a different frame
+\bigskip
+
+\hyperlink{fourguests<3>}%
+{\beamergotobutton{Jump to third guest}}
+\end{frame}
+
+\begin{frame}[label=fourguests]
+\frametitle{Overlaying lists}
+
+We introduce our guests:
+\begin{itemize}
+\item<1-> R. Padmanabhan
+\item<2-> Brian Davey
+\item<3-> Harry Lakser
+\item<4-> Dick Koch
+\end{itemize}
+
+\hyperlink{fourguests<3>}%
+{\beamergotobutton{Jump to third guest}}
+\end{frame}
+
+\begin{frame}
+\frametitle{Third frame with a button}
+
+Button example
+
+Jumping to another frame
+\bigskip
+
+\hyperlink{fourguests}%
+{\beamergotobutton{Jump to guest list}}
+\end{frame}
+
+\begin{frame}
+\frametitle{Hidden link}
+
+\hyperlink{fourguests}{Jumping to the guest list}
+\end{frame}
+
+\end{document}
+

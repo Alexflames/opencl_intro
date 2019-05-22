@@ -1,0 +1,19 @@
+% babybeamer6 presentation
+
+\documentclass{beamer}
+
+\begin{document}
+
+\begin{frame}
+\frametitle{Overlaying declarations and graphics}
+
+\onslide<1->{\begin{theorem}
+Every finite distributive lattice can be embedded in a boolean lattice.
+\end{theorem}}
+\visible<3->{\begin{proof}
+Use join-irreducible elements.
+\end{proof}}
+\visible<2->{\includegraphics{cube}}
+\end{frame}
+\end{document}
+
