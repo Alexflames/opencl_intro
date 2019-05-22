@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500) (preloaded format=pdflatex 2018.1.22)  22 MAY 2019 19:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500) (preloaded format=pdflatex 2018.1.22)  22 MAY 2019 21:21
 entering extended mode
 **./CourseworkPresentation.tex
 (CourseworkPresentation.tex
@@ -1223,7 +1223,7 @@ Overfull \hbox (7.80211pt too wide) in paragraph at lines 60--60
 <screenshots/tile-transpose.png, id=291, 441.90094pt x 213.04594pt>
 File: screenshots/tile-transpose.png Graphic file (type png)
 <use screenshots/tile-transpose.png>
-Package pdftex.def Info: screenshots/tile-transpose.png  used on input line 171
+Package pdftex.def Info: screenshots/tile-transpose.png  used on input line 173
 .
 (pdftex.def)             Requested size: 265.14261pt x 127.82854pt.
  [11
@@ -1234,13 +1234,13 @@ Package pdftex.def Info: screenshots/tile-transpose.png  used on input line 171
 <screenshots/matmul-smart.png, id=344, 445.665pt x 386.94562pt>
 File: screenshots/matmul-smart.png Graphic file (type png)
 <use screenshots/matmul-smart.png>
-Package pdftex.def Info: screenshots/matmul-smart.png  used on input line 197.
+Package pdftex.def Info: screenshots/matmul-smart.png  used on input line 199.
 (pdftex.def)             Requested size: 200.5474pt x 174.12392pt.
 
 [13
 
  <./screenshots/matmul-smart.png>]
-Overfull \hbox (20.78967pt too wide) in paragraph at lines 221--221
+Overfull \hbox (20.78967pt too wide) in paragraph at lines 223--223
  [] 
  []
 
@@ -1248,7 +1248,39 @@ Overfull \hbox (20.78967pt too wide) in paragraph at lines 221--221
 
 ] [15
 
-] [16
+]
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 275
+.
+
+(C:\WithoutPermission\PortableTEX\texmfs\install\tex\latex\cyrillic\t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+) [16
+
+ <C:/WithoutPermission/PortableTEX/texmfs/install/tex/latex/beamer/beamericonon
+line.pdf> <C:/WithoutPermission/PortableTEX/texmfs/install/tex/latex/beamer/bea
+mericonbook.pdf>]
+Overfull \hbox (11.36208pt too wide) in paragraph at lines 298--298
+[][][]\T2A/cmtt/m/n/10 https://compscicenter.ru/courses/video-cards-computation
+/ 
+ []
+
+
+Overfull \hbox (11.36208pt too wide) in paragraph at lines 298--298
+[][][]\T2A/cmtt/m/n/10 https://docs.nvidia.com/gameworks/content/developertools
+/ 
+ []
+
+[17
+
+]
+Overfull \hbox (11.36208pt too wide) in paragraph at lines 313--313
+[][][]\T2A/cmtt/m/n/10 https://compscicenter.ru/courses/video-cards-computation
+/ 
+ []
+
+[18
+
+] [19
 
 ]
 \tf@nav=\write6
@@ -1260,43 +1292,44 @@ Overfull \hbox (20.78967pt too wide) in paragraph at lines 221--221
 \tf@snm=\write8
 \openout8 = `CourseworkPresentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 297.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 297.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 321.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 321.
  (CourseworkPresentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 297.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 297.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 321.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 321.
 Package rerunfilecheck Info: File `CourseworkPresentation.out' has not changed.
 
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 34065 strings out of 493307
- 792902 string characters out of 3129325
+ 34164 strings out of 493307
+ 795674 string characters out of 3129325
  998831 words of memory out of 3000000
- 36925 multiletter control sequences out of 15000+200000
- 18398 words of font info for 55 fonts, out of 3000000 for 9000
+ 37004 multiletter control sequences out of 15000+200000
+ 18708 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,14n,98p,816b,635s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\WithoutPermission\PortableTEX\texmfs/data\fonts\pk\ljfour\lh\lh-t2a\dpi6
 00\lass1728.pk> <C:\WithoutPermission\PortableTEX\texmfs/data\fonts\pk\ljfour\l
-h\lh-t2a\dpi600\lass0600.pk> <C:\WithoutPermission\PortableTEX\texmfs/data\font
-s\pk\ljfour\lh\lh-t2a\dpi600\lass1000.pk> <C:\WithoutPermission\PortableTEX\tex
-mfs/data\fonts\pk\ljfour\lh\lh-t2a\dpi600\lasx0600.pk> <C:\WithoutPermission\Po
-rtableTEX\texmfs/data\fonts\pk\ljfour\lh\lh-t2a\dpi600\lass1095.pk> <C:\Without
-Permission\PortableTEX\texmfs/data\fonts\pk\ljfour\lh\lh-t2a\dpi600\lass1440.pk
-><C:/WithoutPermission/PortableTEX/texmfs/install/fonts/type1/public/amsfonts/c
-m/cmmi10.pfb><C:/WithoutPermission/PortableTEX/texmfs/install/fonts/type1/publi
-c/amsfonts/cm/cmmi12.pfb><C:/WithoutPermission/PortableTEX/texmfs/install/fonts
-/type1/public/amsfonts/cm/cmmi6.pfb><C:/WithoutPermission/PortableTEX/texmfs/in
-stall/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/WithoutPermission/PortableTE
-X/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/WithoutPermission
-/PortableTEX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Without
-Permission/PortableTEX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-><C:/WithoutPermission/PortableTEX/texmfs/install/fonts/type1/public/amsfonts/c
-m/cmsy6.pfb>
-Output written on CourseworkPresentation.pdf (16 pages, 857984 bytes).
+h\lh-t2a\dpi600\latt1000.pk> <C:\WithoutPermission\PortableTEX\texmfs/data\font
+s\pk\ljfour\lh\lh-t2a\dpi600\lass0600.pk> <C:\WithoutPermission\PortableTEX\tex
+mfs/data\fonts\pk\ljfour\lh\lh-t2a\dpi600\lass1000.pk> <C:\WithoutPermission\Po
+rtableTEX\texmfs/data\fonts\pk\ljfour\lh\lh-t2a\dpi600\lasx0600.pk> <C:\Without
+Permission\PortableTEX\texmfs/data\fonts\pk\ljfour\lh\lh-t2a\dpi600\lass1095.pk
+> <C:\WithoutPermission\PortableTEX\texmfs/data\fonts\pk\ljfour\lh\lh-t2a\dpi60
+0\lass1440.pk><C:/WithoutPermission/PortableTEX/texmfs/install/fonts/type1/publ
+ic/amsfonts/cm/cmmi10.pfb><C:/WithoutPermission/PortableTEX/texmfs/install/font
+s/type1/public/amsfonts/cm/cmmi12.pfb><C:/WithoutPermission/PortableTEX/texmfs/
+install/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/WithoutPermission/Portable
+TEX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/WithoutPermissi
+on/PortableTEX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/With
+outPermission/PortableTEX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pf
+b><C:/WithoutPermission/PortableTEX/texmfs/install/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb><C:/WithoutPermission/PortableTEX/texmfs/install/fonts/type1/publ
+ic/amsfonts/cm/cmsy6.pfb>
+Output written on CourseworkPresentation.pdf (19 pages, 930067 bytes).
 PDF statistics:
- 727 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
+ 1006 PDF objects out of 1200 (max. 8388607)
+ 49 named destinations out of 1000 (max. 500000)
  99 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -78,7 +78,9 @@
     \Large
     Центральный процессор "--- небольшое количество <<умных>> ядер
     
-    Видеокарта "--- большое количество <<примитивных>> ядер
+    \vspace{1em}
+    
+    Видеокарта "--- большое количество <<простых>> ядер
 \end{frame}
 
 \begin{frame}
@@ -248,45 +250,67 @@
 
 
 % список литературы - обязательно
-\if 0 \then
 \begin{frame}
     \frametitle{Список использованных источников  \slnumber}
     \small
     \begin{thebibliography}{9}
-        \setbeamertemplate{bibliography item}[article]
-    	\bibitem{Liagushki-art}
-            Д.~А.~Шабанов, С.~Н.~Литвинчук
-    		\newblock
-    		Зелёные лягушки: жизнь без правил или особый способ эволюции?
-      		\newblock\emph{Природа}. "---
-    		2010. "--- 
-    		\No~3. "---
-    		С.~29--36.
         \setbeamertemplate{bibliography item}[online]
-        \bibitem{el-Rana-temporaria}
-            \verb"http://www.ecosystema.ru/08nature/amf/35.htm"
-            \newblock Травяная лягушка — Rana temporaria Linnaeus
-        \setbeamertemplate{bibliography item}[article]
-        \bibitem{Monte-Carlo-art}
-            N.~Metropolis, S.~Ulam
-            \newblock The Monte Carlo Method
-            \newblock \emph{J. Amer. statistical assoc.}. "---
-            2049. "--- 
-            Vol.~44, \No~247. "---
-            Pp.~335--341.
+        \bibitem{fermi}
+            \verb"https://www.nvidia.com/content/PDF/fermi-white-papers/"
+            \newblock NVIDIA’s Next Generation CUDA Compute Architecture: Fermi
         \setbeamertemplate{bibliography item}[book]
-        \bibitem{Monte-Carlo-book}
-            J.~M.~Hammersley, D.~C.~Handscomb
-            \newblock Monte Carlo methods
-            \newblock Methuen: 1964. "---
-            178~p.
+        \bibitem{opencl-guide}
+        		A.~Munshi, B.~R.~Gaster, T.~G.~Mattson, J.~Fung, D.~Ginsburg
+            \newblock OpenCL Programming Guide
+            \newblock Ann Arbor, Michigan: 2012.
         \setbeamertemplate{bibliography item}[online]
-        \bibitem{el-Pi-Monte-Carlo}
-            \verb"http://habrahabr.ru/post/128454/"
-            \newblock Вычисление числа Пи методом Монте-Карло
+        \bibitem{opencl-intro}
+            \verb"http://opencl.ru/node/8"
+            \newblock Введение | OpenCL
+        \setbeamertemplate{bibliography item}[online]    
+				\bibitem{opencl-spec}
+            \verb"https://www.khronos.org/registry/OpenCL/specs/"
+            \newblock The OpenCL Specification
     \end{thebibliography}
 \end{frame}
-\fi
+
+\begin{frame}
+    \frametitle{Список использованных источников  \slnumber}
+    \small
+    \begin{thebibliography}{9}
+        \setbeamertemplate{bibliography item}[online]    
+				\bibitem{videocard-architecture}
+            \verb"https://compscicenter.ru/courses/video-cards-computation/"
+            \newblock Введение в OpenCL. Архитектура видеокарты  
+        \setbeamertemplate{bibliography item}[online]    
+				\bibitem{warps}
+            \verb"https://docs.nvidia.com/gameworks/content/developertools/"
+            \newblock Achieved Occupancy
+				\setbeamertemplate{bibliography item}[online]    
+				\bibitem{work-groups}
+            \verb"https://software.intel.com/ru-ru/articles/"
+            \newblock Неоднородные рабочие группы OpenCL 2.0  
+        \setbeamertemplate{bibliography item}[online]    
+				\bibitem{enqueue}
+            \verb"https://www.khronos.org/registry/OpenCL/sdk/1.0/docs/"
+            \newblock clEnqueueNDRangeKernel  
+    \end{thebibliography}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Список использованных источников  \slnumber}
+    \small
+    \begin{thebibliography}{9}
+        \setbeamertemplate{bibliography item}[online]    
+				\bibitem{matmul}
+            \verb"https://compscicenter.ru/courses/video-cards-computation/"
+            \newblock Умножение матриц | Вычисления на видеокартах  
+        \setbeamertemplate{bibliography item}[online]    
+				\bibitem{performance}
+            \verb"https://www.karlrupp.net/2016/08/flops-per-cycle-for"
+            \newblock FLOPs per Cycle for CPUs, GPUs and Xeon Phis
+    \end{thebibliography}
+\end{frame}
 
 \begin{frame}
 	\begin{beamercolorbox}[ht=7ex, dp=4ex, center, shadow=true, rounded=true]{title in head/foot}
