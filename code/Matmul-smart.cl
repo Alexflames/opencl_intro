@@ -21,5 +21,5 @@ __kernel void matmul2(__global float *a,
 					* tileB[local_i * TILE_SIZE][k];
 		}
 	}
-	c[j * N * i] = sum;
+	c[j * N * i] += sum;
 }
